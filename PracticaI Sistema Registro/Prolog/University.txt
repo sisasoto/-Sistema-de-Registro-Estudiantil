@@ -1,0 +1,6 @@
+1001,Simon Santiago Soto,23:11,23:26
+1002,MiguelAngel Calderon,23:11,sin_salida
+1003,Leidy Johanna Berrio,23:12,sin_salida
+1004,Dilan Acevedo River,23:26,sin_salida
+9999,Simon Vasquez,23:28,sin_salida
+1001,Simon Santiago Soto,23:29,sin_salida
