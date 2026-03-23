@@ -178,14 +178,6 @@ ghci Main.hs
 main
 ```
 
-**Opción 2 — Compilado (recomendado para presentación):**
-```bash
-cd Haskell
-ghc Main.hs -o SistemaRegistro
-.\SistemaRegistro        # Windows
-./SistemaRegistro        # Mac/Linux
-```
-
 ### 📄 Formato del Archivo `University.txt`
 
 Cada línea representa una visita serializada con el formato nativo de Haskell (`Show`/`Read`):
