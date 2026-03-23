@@ -20,7 +20,6 @@
   <tr><td><b>👨‍💻 Estudiante</b></td><td>Simón Santiago Soto Berrío</td></tr>
   <tr><td><b>📝 Tipo</b></td><td>Práctica individual</td></tr>
   <tr><td><b>📅 Fecha de entrega</b></td><td>23 de marzo de 2026</td></tr>
-  <tr><td><b>💯 Valor</b></td><td>15% de la nota final</td></tr>
 </table>
 
 ---
